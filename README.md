@@ -24,7 +24,7 @@ Um recurso muito interessante é a possibilidade de criar projetos dentro da con
 <h2>
     <font color="#c9040a"> APP Engine </font>
 </h2>
-E uma Plataforma como servico(Paas) para criar aplicativos web escalaveis e back-end moveis, com runtimes "gerenciados" suporte as principais linguagens de programacao(Java, Python, GO e etc) muito pratica e simples de utilizar e em alguns minutos e possivel subir sua aplicacao sem provisionar VM's ou algo do tipo. O dimensionamento da aplicacao ocorre de forma automatica de acordo com a demanda e utilizacao, a cobranca ocorre conforme a utilizacao.
+E uma Plataforma como serviço(Paas) para criar aplicativos web escaláveis e back-end móveis, com runtimes "gerenciados" suporte as principais linguagens de programação(Java, Python, GO e etc) muito prática e simples de utilizar e em alguns minutos é possível subir sua aplicação sem provisionar VM's ou algo do tipo. O dimensionamento da aplicação ocorre de forma automática de acordo com a demanda e utilização, a cobrança ocorre conforme a utilização.
 
 ![appengine](https://cloud.githubusercontent.com/assets/24530268/26786162/04c5bde6-49dc-11e7-9dbf-1d3b072f35c8.png)
 
@@ -32,7 +32,7 @@ E uma Plataforma como servico(Paas) para criar aplicativos web escalaveis e back
 <h2>
     <font color="#c9040a"> Cloud Spanner </font>
 </h2>
-E um servico de banco de dados, reacional, consistente, escalavel horizontalemnte e global. Banco de dados dados SQL e consistente porem muito complicado de escalar horizontalmente devido a complexidade dos dados, ja no NOSQL e muito mais facil escalar horizontamente porem nao tem a mesma consistencia de dados do SQL. Diante deste cenario o Google uniu as melhores caracteristicas dos dois bancos e criou o Cloud Spanner e promete um banco de dados muito robusto.
+Um servico de banco de dados, relacional, consistente, escalavel horizontalmente e global. Banco de dados dados SQL é consistente porém muito complicado de escalar horizontalmente devido a complexidade dos dados, já no NOSQL e muito mais fácil escalar horizontalmente porém não tem a mesma consistência de dados do SQL. Diante deste cenário o Google uniu as melhores características dos dois bancos e criou o Cloud Spanner e promete um banco de dados muito robusto, escalável e consistente.
 
 ![cloudspanner](https://cloud.githubusercontent.com/assets/24530268/26782105/3a0b691a-49c8-11e7-8c90-a363f2a698cb.png)
 
@@ -40,31 +40,32 @@ E um servico de banco de dados, reacional, consistente, escalavel horizontalemnt
 <h2>
     <font color="#c9040a"> Google Container Engine </font>
 </h2>
-Trata-se de um sistem de conteiners na nuvem em cluster, totalmente gerenciado e baseado no Kubernetes. E possivel definir a configuracao desejada para aplicativos e o Container Engine realiza a implantacao e gerenciamento, isso e nativo e facilita muito o dia a dia e o gerenciamento dos containers.
+Trata-se de um sistema de contêineres na nuvem em cluster, totalmente gerenciado e baseado no Kubernetes. É possível definir a configuração desejada para aplicativos e o Container Engine realiza a implantação e gerenciamento, isso é nativo e facilita muito o dia a dia e o gerenciamento dos containers.
 
-Com certeza o Google esta apostando muito em "Big Data" e "Machine Learning", tem funcionalidades bacana para estes fins.
+Com certeza o Google está apostando muito em "Big Data" e "Machine Learning", tem funcionalidades bacana para estes fins.
 
 
 <h2>
     <font color="#c9040a"> Google Cloud Big Data Platform </font>
 </h2>
 Foi criado uma plataforma focada em Big Data com diversas funcionalidades, algumas delas:
-- Big Query: Trata-se de um Data warehouse para analise interativa de grandes quantidades de dados em uma velocidade INCRIVEL! sem precisar provisionar e administrar ambientes uma ferramenta poderosa.
-- Cloud Dataproc: Um jeito muito simples de genrenciar e executar Hadoop, Spark/Hive/Pig. Integracao com diversas nuvens e permite a criacao de clusters 90 segundos ou menos.
+- Big Query: Trata-se de um Data warehouse para análise interativa de grandes quantidades de dados em uma velocidade INCRÍVEL! sem precisar provisionar e administrar ambientes uma ferramenta poderosa.
+- Cloud Dataproc: Um jeito muito simples de gerenciar e executar Hadoop, Spark/Hive/Pig. Integração com diversas nuvens e permite a criação de clusters 90 segundos ou menos
+
 O grande destaque esta no processamento, sendo possivel realizar uma requery em mais de 4TB e obter os resultados em segundos.
 
 
 <h2>
     <font color="#c9040a"> Google Cloud Machine Learning Platform </font>
 </h2>
-Assim como Big data, existe uma plataforma para machine learning com funcionalidades incriveis para criar e executar modelos de redes neurais:
-- Cloud Vision API: E possivel analisar imagens, deteccao de rostos, logotipos, textos e muito mais. 
+Assim como Big data, existe uma plataforma para machine learning com funcionalidades incríveis para criar e executar modelos de redes neurais:
+- Cloud Vision API: É possível analisar imagens, detecção de rostos, logotipos, textos e muito mais.
 - Processamento de Linguagem Natural: Usa modelos de Machine Learning para revelar a estrutura e o significado do texto extrai informações sobre pessoas, lugares, eventos mencionados em documentos, notícias e posts em blogs Analisa textos carregados sob demanda ou se integra ao Cloud Storage
 - Cloud Translation API: Traduz strings arbitrárias entre diversos idiomas e detecta o idioma de documentos.
 
 ![machine](https://cloud.githubusercontent.com/assets/24530268/26789414/9d5d3afc-49e6-11e7-804b-a34a7a338685.png)
 
-Eu particulamente gostei muito do evento e das opcoes que o Google oferece, o grande destaque fica por conta do alto poder de processamento e a velocidade que ocorre, isso e possivel pois a rede que interliga todos datacenter, toda infraestrutura ssao da propria google
+Eu particularmente gostei muito do evento e das opções que o Google oferece, o grande destaque fica por conta do alto poder de processamento e a velocidade que ocorre, isso é possível pois a rede que interliga todos datacenter, toda infraestrutura e da é própria google.
 
 Referencia:
 Apresentacao oficial do #CloudOnboard
