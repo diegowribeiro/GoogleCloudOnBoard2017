@@ -41,14 +41,12 @@ Trata-se de um sistem de conteiners na nuvem em cluster, totalmente gerenciado e
 
 Com certeza o Google esta apostando muito em "Big Data" e "Machine Learning", tem funcionalidades bacana para estes fins.
 
-![bigdata](https://cloud.githubusercontent.com/assets/24530268/26791188/a3f7c6a6-49ec-11e7-9c3c-9399b0962bfa.png)
 Google Cloud Big Data Platform
 Foi criado uma plataforma focada em Big Data com diversas funcionalidades, algumas delas:
 - Big Query: Trata-se de um Data warehouse para analise interativa de grandes quantidades de dados em uma velocidade INCRIVEL! sem precisar provisionar e administrar ambientes uma ferramenta poderosa.
 - Cloud Dataproc: Um jeito muito simples de genrenciar e executar Hadoop, Spark/Hive/Pig. Integracao com diversas nuvens e permite a criacao de clusters 90 segundos ou menos.
 O grande destaque esta no processamento, sendo possivel realizar uma requery em mais de 4TB e obter os resultados em segundos.
 
-![machinelearning](https://cloud.githubusercontent.com/assets/24530268/26791164/94886c16-49ec-11e7-97b6-0e53fe2ebbeb.png)
 Google Cloud Machine Learning Platform
 Assim como Big data, existe uma plataforma para machine learning com funcionalidades incriveis para criar e executar modelos de redes neurais:
 - Cloud Vision API: E possivel analisar imagens, deteccao de rostos, logotipos, textos e muito mais. 
