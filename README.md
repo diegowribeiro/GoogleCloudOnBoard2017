@@ -37,8 +37,6 @@ E um servico de banco de dados, reacional, consistente, escalavel horizontalemnt
 Google Container Engine
 Trata-se de um sistem de conteiners na nuvem em cluster, totalmente gerenciado e baseado no Kubernetes. E possivel definir a configuracao desejada para aplicativos e o Container Engine realiza a implantacao e gerenciamento, isso e nativo e facilita muito o dia a dia e o gerenciamento dos containers.
 
-![container](https://cloud.githubusercontent.com/assets/24530268/26786656/bbc2661a-49dd-11e7-9d4d-7b0331e53e7c.png)
-
 Com certeza o Google esta apostando muito em "Big Data" e "Machine Learning", tem funcionalidades bacana para estes fins.
 
 Google Cloud Big Data Platform
