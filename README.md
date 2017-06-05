@@ -12,7 +12,11 @@ Outra grande inovação está no sistema de precificação, a bilhetagem ocorre 
 As configurações de VM's sao customizáveis, sabe aqueles casos quando precisa criar um servidor porém ao escolher o tipo de configuração "medium" pode não suportar e a "large" vai acabar sobrando muito recurso e por consequência irá pagar mais por isso? então com esse modelo você pode personalizar todas as configurações de sua VM conforme necessidade.
 Com essas inovações de precificação e configuração de VM, é possível obter descontos interessantes. A seguir os destaques de recursos e funcionalidades.
 
-Projetos 
+
+<h2>
+    <font color="#c9040a"> Projetos </font>
+</h2>
+
 Um recurso muito interessante é a possibilidade de criar projetos dentro da conta, desta forma fica muito fácil gerenciar os projetos em andamento a bilhetagem separada de acordo com o projeto e também os acessos é possível chegar uma granularidade interessante. Se for o caso, após o projeto não ter mais utilização fica e simples de deletar o projeto como um todo. 
 
 ![projetos](https://cloud.githubusercontent.com/assets/24530268/26782416/ed7e0556-49c9-11e7-877a-8814367ad6c2.png)
