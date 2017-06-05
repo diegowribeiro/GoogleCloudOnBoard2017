@@ -35,10 +35,19 @@ E um servico de banco de dados, reacional, consistente, escalavel horizontalemnt
 ![cloudspanner](https://cloud.githubusercontent.com/assets/24530268/26782105/3a0b691a-49c8-11e7-8c90-a363f2a698cb.png)
 
 Google Container Engine
-Trata-se de um sistem de conteiners na nuvem em cluster, totalmente gerenciado baseado no Kubernetes. E possivel definir a configuracao desejada para aplicativos e o Container Engine realiza a implantacao e gerenciamento, isso e nativo e facilita muito o dia a dia e o gerenciamento dos containers.
+Trata-se de um sistem de conteiners na nuvem em cluster, totalmente gerenciado e baseado no Kubernetes. E possivel definir a configuracao desejada para aplicativos e o Container Engine realiza a implantacao e gerenciamento, isso e nativo e facilita muito o dia a dia e o gerenciamento dos containers.
 
 ![container](https://cloud.githubusercontent.com/assets/24530268/26786656/bbc2661a-49dd-11e7-9d4d-7b0331e53e7c.png)
 
+Deixei para o fim os dois itens que mais me chamaram atencao "Big Data" e "Machine Learning", com certeza os pontos mais fortes da Google na nuvem...
 
+Google Cloud Big Data Platform
+Foi criado uma plataforma focada em Big Data com diversas funcionalidades para este fim, vou destacar algumas delas:
+- Big Query: Trata-se de um Data warehouse para analise interativa de grandes quantidades de dados em uma velocidade INCRIVEL! sem precisar provisionar e administrar ambientes uma ferramenta poderosa.
+- Cloud Dataproc: Um jeito muito simples de genrenciar e executar Hadoop, Spark/Hive/Pig. Integracao com diversas nuvens e permite a criacao de clusters 90 segundos ou menos
 
-
+Google Cloud Machine Learning Platform
+Assim como Big data, existe uma plataforma para machine learning com funcionalidades incriveis:
+- Cloud Vision API: E possivel analisar imagens, deteccao de rostos, logotipos, textos e muito mais. 
+- Processamento de Linguagem Natural: Usa modelos de Machine Learning para revelar a estrutura e o significado do texto extrai informações sobre pessoas, lugares, eventos mencionados em documentos, notícias e posts em blogs Analisa textos carregados sob demanda ou se integra ao Cloud Storage
+- Cloud Translation API: Traduz strings arbitrárias entre diversos idiomas e detecta o idioma de um documento.
