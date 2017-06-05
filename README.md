@@ -8,6 +8,6 @@ As novidades que a Google apresentou eu particularmente fiquei impressionado, a 
 
 O Evento iniciou com os novos data center que serao entregues ainda esse ano 2017, serao pelo 9 pelo mundo inclusive um no Brasil mais precisamente em Sao Paulo. So nesse inicio ja deu para ter a ideia do que vem pela frente, com certeza a Google vem muito forte para o mercado de Cloud nos proximos anos.
 
-
+![regioes](https://cloud.githubusercontent.com/assets/24530268/26766563/b3ba9eb0-496a-11e7-9239-d1383be63330.png)
 
 
