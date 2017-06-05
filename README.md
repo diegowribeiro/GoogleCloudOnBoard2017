@@ -59,7 +59,7 @@ O grande destaque esta no processamento, sendo possivel realizar uma requery em 
     <font color="#c9040a"> Google Cloud Machine Learning Platform </font>
 </h2>
 Assim como Big data, existe uma plataforma para machine learning com funcionalidades incríveis para criar e executar modelos de redes neurais:
-- Cloud Vision API: É possível analisar imagens, detecção de rostos, logotipos, textos e muito mais.
+-- Cloud Vision API: É possível analisar imagens, detecção de rostos, logotipos, textos e muito mais.
 - Processamento de Linguagem Natural: Usa modelos de Machine Learning para revelar a estrutura e o significado do texto extrai informações sobre pessoas, lugares, eventos mencionados em documentos, notícias e posts em blogs Analisa textos carregados sob demanda ou se integra ao Cloud Storage
 - Cloud Translation API: Traduz strings arbitrárias entre diversos idiomas e detecta o idioma de documentos.
 
