@@ -19,10 +19,16 @@ As configuracoes de VM's sao customizaveis, sabe aqueles casos quandoo precisa c
 
 Com essas inovacoes de precificacao e configuracao de VM, e possivel obter descontos interessantes. A seguir os destaques de recursos e funcionalidades.
 
+Projetos 
+Um recurso muito interessante e a possibilidade de criar projetos dentro da conta, desta forma fica muito facil gerenciar os projetos em andamento a bilhetagem separada de acordo com o projeto e tambem os acessos e possivel chegar uma granularidade interessante.
+
+
 Cloud Spanner
 E um servico de banco de dados, reacional, consistente, escalavel horizontalemnte e global. Banco de dados dados SQL e consistente porem muito complicado de escalar horizontalmente devido a complexidade dos dados, ja no NOSQL e muito mais facil escalar horizontamente porem nao tem a mesma consistencia de dados do SQL. Diante deste cenario o Google uniu as melhores caracteristicas dos dois bancos e criou o Cloud Spanner e promete um banco de dados muito robusto.
 
+![cloudspanner](https://cloud.githubusercontent.com/assets/24530268/26782105/3a0b691a-49c8-11e7-8c90-a363f2a698cb.png)
 
+  
 
 
 
