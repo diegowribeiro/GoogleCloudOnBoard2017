@@ -8,9 +8,9 @@ O Evento iniciou com os novos data center que serão entregues ainda esse ano de
 ![regioes](https://cloud.githubusercontent.com/assets/24530268/26766563/b3ba9eb0-496a-11e7-9239-d1383be63330.png)
 
 
-Outra grande inovação está no sistema de precificação, a bilhetagem ocorre por minuto de utilização e nao por hora cheia ou seja algumas situações ou necessidades que o serviço não precisa estar sempre ativo a economia que pode gerar a longo prazo é muito grande. Existe um sistema de desconto que quanto mais você utiliza, mais desconto se obtém de forma automática e pode ser visto através do painel, você não precisa reservar uma VM por exemplo de 1 a 3 anos e pagar antecipadamente para obter desconto.
-As configurações de VM's sao customizáveis, sabe aqueles casos quando precisa criar um servidor porém ao escolher o tipo de configuração "medium" pode não suportar e a "large" vai acabar sobrando muito recurso e por consequência irá pagar mais por isso? então com esse modelo você pode personalizar todas as configurações de sua VM conforme necessidade.
-Com essas inovações de precificação e configuração de VM, é possível obter descontos interessantes. A seguir os destaques de recursos e funcionalidades.
+<p>Outra grande inovação está no sistema de precificação, a bilhetagem ocorre por minuto de utilização e nao por hora cheia ou seja algumas situações ou necessidades que o serviço não precisa estar sempre ativo a economia que pode gerar a longo prazo é muito grande. Existe um sistema de desconto que quanto mais você utiliza, mais desconto se obtém de forma automática e pode ser visto através do painel, você não precisa reservar uma VM por exemplo de 1 a 3 anos e pagar antecipadamente para obter desconto.<p />
+<p>As configurações de VM's sao customizáveis, sabe aqueles casos quando precisa criar um servidor porém ao escolher o tipo de configuração "medium" pode não suportar e a "large" vai acabar sobrando muito recurso e por consequência irá pagar mais por isso? então com esse modelo você pode personalizar todas as configurações de sua VM conforme necessidade.
+Com essas inovações de precificação e configuração de VM, é possível obter descontos interessantes. A seguir os destaques de recursos e funcionalidades.<p />
 
 
 <h2>
@@ -49,8 +49,8 @@ Com certeza o Google está apostando muito em "Big Data" e "Machine Learning", t
     <font color="#c9040a"> Google Cloud Big Data Platform </font>
 </h2>
 Foi criado uma plataforma focada em Big Data com diversas funcionalidades, algumas delas:
-- Big Query: Trata-se de um Data warehouse para análise interativa de grandes quantidades de dados em uma velocidade INCRÍVEL! sem precisar provisionar e administrar ambientes uma ferramenta poderosa.
-- Cloud Dataproc: Um jeito muito simples de gerenciar e executar Hadoop, Spark/Hive/Pig. Integração com diversas nuvens e permite a criação de clusters 90 segundos ou menos
+<p>- Big Query: Trata-se de um Data warehouse para análise interativa de grandes quantidades de dados em uma velocidade INCRÍVEL! sem precisar provisionar e administrar ambientes uma ferramenta poderosa.<p />
+<p>- Cloud Dataproc: Um jeito muito simples de gerenciar e executar Hadoop, Spark/Hive/Pig. Integração com diversas nuvens e permite a criação de clusters 90 segundos ou menos<p />
 
 O grande destaque esta no processamento, sendo possivel realizar uma requery em mais de 4TB e obter os resultados em segundos.
 
