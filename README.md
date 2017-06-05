@@ -51,3 +51,6 @@ Assim como Big data, existe uma plataforma para machine learning com funcionalid
 - Cloud Vision API: E possivel analisar imagens, deteccao de rostos, logotipos, textos e muito mais. 
 - Processamento de Linguagem Natural: Usa modelos de Machine Learning para revelar a estrutura e o significado do texto extrai informações sobre pessoas, lugares, eventos mencionados em documentos, notícias e posts em blogs Analisa textos carregados sob demanda ou se integra ao Cloud Storage
 - Cloud Translation API: Traduz strings arbitrárias entre diversos idiomas e detecta o idioma de um documento.
+
+![machine](https://cloud.githubusercontent.com/assets/24530268/26789414/9d5d3afc-49e6-11e7-804b-a34a7a338685.png)
+
