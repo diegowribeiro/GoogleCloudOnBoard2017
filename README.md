@@ -17,7 +17,10 @@ Outra grande inovacao esta no sistema de precificacao, a bilhetagem ocorre por m
 
 As configuracoes de VM's sao customizaveis, sabe aqueles casos quandoo precisa criar um servidor porem ao escolher o tipo de configuracao "medium" pode nao suportar e a "large" vai acabar sobrando muito recurso e por consequencia ira pagar mais por isso? entao com esse modelo voce pode personalizar todas as configuracoes de sua VM conforme necessidade.
 
-Com essas inovacoes de precificacao e configuracao de VM, e possivel obter descontos interessantes.
+Com essas inovacoes de precificacao e configuracao de VM, e possivel obter descontos interessantes. A seguir os destaques de recursos e funcionalidades.
+
+**Cloud Spanner
+
 
 
 
