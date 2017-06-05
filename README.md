@@ -27,12 +27,17 @@ Um recurso muito interessante e a possibilidade de criar projetos dentro da cont
 APP Engine
 E uma Plataforma como servico(Paas) para criar aplicativos web escalaveis e back-end moveis, com runtimes "gerenciados" suporte as principais linguagens de programacao(Java, Python, GO e etc) muito pratica e simples de utilizar e em alguns minutos e possivel subir sua aplicacao sem provisionar VM's ou algo do tipo. O dimensionamento da aplicacao ocorre de forma automatica de acordo com a demanda e utilizacao, a cobranca ocorre conforme a utilizacao.
 
+![appengine](https://cloud.githubusercontent.com/assets/24530268/26786162/04c5bde6-49dc-11e7-9dbf-1d3b072f35c8.png)
+
 Cloud Spanner
 E um servico de banco de dados, reacional, consistente, escalavel horizontalemnte e global. Banco de dados dados SQL e consistente porem muito complicado de escalar horizontalmente devido a complexidade dos dados, ja no NOSQL e muito mais facil escalar horizontamente porem nao tem a mesma consistencia de dados do SQL. Diante deste cenario o Google uniu as melhores caracteristicas dos dois bancos e criou o Cloud Spanner e promete um banco de dados muito robusto.
 
 ![cloudspanner](https://cloud.githubusercontent.com/assets/24530268/26782105/3a0b691a-49c8-11e7-8c90-a363f2a698cb.png)
 
-  
+Google Container Engine
+Trata-se de um sistem de conteiners na nuvem em cluster, totalmente gerenciado baseado no Kubernetes. E possivel definir a configuracao desejada para aplicativos e o Container Engine realiza a implantacao e gerenciamento, isso e nativo e facilita muito o dia a dia e o gerenciamento dos containers.
+
+
 
 
 
