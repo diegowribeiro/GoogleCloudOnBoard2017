@@ -16,33 +16,47 @@ Com essas inovações de precificação e configuração de VM, é possível obt
 <h2>
     <font color="#c9040a"> Projetos </font>
 </h2>
-
 Um recurso muito interessante é a possibilidade de criar projetos dentro da conta, desta forma fica muito fácil gerenciar os projetos em andamento a bilhetagem separada de acordo com o projeto e também os acessos é possível chegar uma granularidade interessante. Se for o caso, após o projeto não ter mais utilização fica e simples de deletar o projeto como um todo. 
 
 ![projetos](https://cloud.githubusercontent.com/assets/24530268/26782416/ed7e0556-49c9-11e7-877a-8814367ad6c2.png)
 
-APP Engine
+
+<h2>
+    <font color="#c9040a"> APP Engine </font>
+</h2>
 E uma Plataforma como servico(Paas) para criar aplicativos web escalaveis e back-end moveis, com runtimes "gerenciados" suporte as principais linguagens de programacao(Java, Python, GO e etc) muito pratica e simples de utilizar e em alguns minutos e possivel subir sua aplicacao sem provisionar VM's ou algo do tipo. O dimensionamento da aplicacao ocorre de forma automatica de acordo com a demanda e utilizacao, a cobranca ocorre conforme a utilizacao.
 
 ![appengine](https://cloud.githubusercontent.com/assets/24530268/26786162/04c5bde6-49dc-11e7-9dbf-1d3b072f35c8.png)
 
-Cloud Spanner
+
+<h2>
+    <font color="#c9040a"> Cloud Spanner </font>
+</h2>
 E um servico de banco de dados, reacional, consistente, escalavel horizontalemnte e global. Banco de dados dados SQL e consistente porem muito complicado de escalar horizontalmente devido a complexidade dos dados, ja no NOSQL e muito mais facil escalar horizontamente porem nao tem a mesma consistencia de dados do SQL. Diante deste cenario o Google uniu as melhores caracteristicas dos dois bancos e criou o Cloud Spanner e promete um banco de dados muito robusto.
 
 ![cloudspanner](https://cloud.githubusercontent.com/assets/24530268/26782105/3a0b691a-49c8-11e7-8c90-a363f2a698cb.png)
 
-Google Container Engine
+
+<h2>
+    <font color="#c9040a"> Google Container Engine </font>
+</h2>
 Trata-se de um sistem de conteiners na nuvem em cluster, totalmente gerenciado e baseado no Kubernetes. E possivel definir a configuracao desejada para aplicativos e o Container Engine realiza a implantacao e gerenciamento, isso e nativo e facilita muito o dia a dia e o gerenciamento dos containers.
 
 Com certeza o Google esta apostando muito em "Big Data" e "Machine Learning", tem funcionalidades bacana para estes fins.
 
-Google Cloud Big Data Platform
+
+<h2>
+    <font color="#c9040a"> Google Cloud Big Data Platform </font>
+</h2>
 Foi criado uma plataforma focada em Big Data com diversas funcionalidades, algumas delas:
 - Big Query: Trata-se de um Data warehouse para analise interativa de grandes quantidades de dados em uma velocidade INCRIVEL! sem precisar provisionar e administrar ambientes uma ferramenta poderosa.
 - Cloud Dataproc: Um jeito muito simples de genrenciar e executar Hadoop, Spark/Hive/Pig. Integracao com diversas nuvens e permite a criacao de clusters 90 segundos ou menos.
 O grande destaque esta no processamento, sendo possivel realizar uma requery em mais de 4TB e obter os resultados em segundos.
 
-Google Cloud Machine Learning Platform
+
+<h2>
+    <font color="#c9040a"> Google Cloud Machine Learning Platform </font>
+</h2>
 Assim como Big data, existe uma plataforma para machine learning com funcionalidades incriveis para criar e executar modelos de redes neurais:
 - Cloud Vision API: E possivel analisar imagens, deteccao de rostos, logotipos, textos e muito mais. 
 - Processamento de Linguagem Natural: Usa modelos de Machine Learning para revelar a estrutura e o significado do texto extrai informações sobre pessoas, lugares, eventos mencionados em documentos, notícias e posts em blogs Analisa textos carregados sob demanda ou se integra ao Cloud Storage
