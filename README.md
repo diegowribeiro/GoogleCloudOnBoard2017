@@ -51,3 +51,11 @@ Assim como Big data, existe uma plataforma para machine learning com funcionalid
 
 ![machine](https://cloud.githubusercontent.com/assets/24530268/26789414/9d5d3afc-49e6-11e7-804b-a34a7a338685.png)
 
+Eu particulamente gostei muito do evento e das opcoes que o Google oferece, o grande destaque fica por conta do alto poder de processamento e a velocidade que ocorre, isso e possivel pois a rede que interliga todos datacenter, toda infraestrutura ssao da propria google
+
+Referencia:
+Apresentacao oficial do #CloudOnboard
+
+Link do envento na integra:
+https://www.youtube.com/watch?v=UIJVwPPhk84
+
