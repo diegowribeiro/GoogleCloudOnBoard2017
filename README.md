@@ -1,24 +1,19 @@
 # Google CloudOn Board 2017 - ***Construcao...
 
-Participei do evento #CloudOnboard do Google que aconteceu dia 02/06/2017 na Alianz Parque e o objetivo deste evento foi trazer as novidades, apresentar os recursos e os ponto fortes da Nuvem do Google.
-
-O evento foi incrivel, teve algumas falhas no credenciamento e organizacao para as refeicoes porem nada disso ofuscou o quao grandioso foi o evento e principalmente a forma que se deu. Os palestrante conduziram o evento de forma incrivel, souberam manter a dinamica, a didadica funcionou e apesar de estar ali um dia todo sentado, nao foi nem um pouco cansativo ou chato.
-
-As novidades que a Google apresentou eu particularmente fiquei impressionado, a intencao nao e comparar o Google Cloud com AWS ou AZURE e sim comentar sobre os destaques.
-
-O Evento iniciou com os novos data center que serao entregues ainda esse ano 2017, serao pelo menos 9 espalhados pelo mundo inclusive um no Brasil, mais precisamente em Sao Paulo. So nesse inicio ja deu para ter a ideia do que vem pela frente, com certeza a Google vem muito forte para o mercado de Cloud nos proximos anos.
+Participei do evento #CloudOnboard do Google que aconteceu no dia 02/06/2017 no estádio Allianz Parque e o objetivo deste evento foi trazer as novidades, apresentar os recursos e os ponto fortes da Nuvem do Google.
+O evento foi incrível, teve algumas falhas no credenciamento e organização para as refeições, porém nada disso ofuscou o quão grandioso foi o evento e principalmente a forma que se deu. Os palestrante conduziram o evento de forma incrível, souberam manter a dinâmica, a didática funcionou e apesar de estar ali um dia todo sentado, não foi nem um pouco cansativo ou chato.
+As novidades que a Google apresentou eu particularmente fiquei impressionado, a intenção não é comparar o Google Cloud com AWS ou AZURE e sim comentar sobre os destaques.
+O Evento iniciou com os novos data center que serão entregues ainda esse ano de 2017, serão pelo menos 9 espalhados pelo mundo inclusive um no Brasil, mais precisamente em Sao Paulo. Só nesse início já deu para ter a ideia do que vem pela frente, com certeza a Google vem muito forte para o mercado de Cloud nos próximos anos.
 
 ![regioes](https://cloud.githubusercontent.com/assets/24530268/26766563/b3ba9eb0-496a-11e7-9239-d1383be63330.png)
 
 
-Outra grande inovacao esta no sistema de precificacao, a bilhetagem ocorre por minuto de utiilizacao e nao por hora cheia ou seja algumas situacoes ou necessidades que o servico nao precisa estar sempre ativo a economia que pode gerar a longo prazo e muito grande. Existe um sistema de desconto que quanto mais voce utiliza, mais desconto se obtem de forma automatica e pode ser visto atraves do painel ou seja voce nao precisa reservar uma Vm por exemplo de 1 a 3 anos e pagar antecipadamente para obter desconto.
-
-As configuracoes de VM's sao customizaveis, sabe aqueles casos quandoo precisa criar um servidor porem ao escolher o tipo de configuracao "medium" pode nao suportar e a "large" vai acabar sobrando muito recurso e por consequencia ira pagar mais por isso? entao com esse modelo voce pode personalizar todas as configuracoes de sua VM conforme necessidade.
-
-Com essas inovacoes de precificacao e configuracao de VM, e possivel obter descontos interessantes. A seguir os destaques de recursos e funcionalidades.
+Outra grande inovação está no sistema de precificação, a bilhetagem ocorre por minuto de utilização e nao por hora cheia ou seja algumas situações ou necessidades que o serviço não precisa estar sempre ativo a economia que pode gerar a longo prazo é muito grande. Existe um sistema de desconto que quanto mais você utiliza, mais desconto se obtém de forma automática e pode ser visto através do painel, você não precisa reservar uma VM por exemplo de 1 a 3 anos e pagar antecipadamente para obter desconto.
+As configurações de VM's sao customizáveis, sabe aqueles casos quando precisa criar um servidor porém ao escolher o tipo de configuração "medium" pode não suportar e a "large" vai acabar sobrando muito recurso e por consequência irá pagar mais por isso? então com esse modelo você pode personalizar todas as configurações de sua VM conforme necessidade.
+Com essas inovações de precificação e configuração de VM, é possível obter descontos interessantes. A seguir os destaques de recursos e funcionalidades.
 
 Projetos 
-Um recurso muito interessante e a possibilidade de criar projetos dentro da conta, desta forma fica muito facil gerenciar os projetos em andamento a bilhetagem separada de acordo com o projeto e tambem os acessos e possivel chegar uma granularidade interessante.
+Um recurso muito interessante é a possibilidade de criar projetos dentro da conta, desta forma fica muito fácil gerenciar os projetos em andamento a bilhetagem separada de acordo com o projeto e também os acessos é possível chegar uma granularidade interessante. Se for o caso, após o projeto não ter mais utilização fica e simples de deletar o projeto como um todo. 
 
 ![projetos](https://cloud.githubusercontent.com/assets/24530268/26782416/ed7e0556-49c9-11e7-877a-8814367ad6c2.png)
 
