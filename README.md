@@ -13,8 +13,6 @@ O Evento iniciou com os novos data center que serao entregues ainda esse ano 201
 
 Outra grande inovacao esta no sistema de precificacao, a bilhetagem ocorre por minuto de utiilizacao e nao por hora cheia ou seja algumas situacoes ou necessidades que o servico nao precisa estar sempre ativo a economia que pode gerar a longo prazo e muito grande. Existe um sistema de desconto que quanto mais voce utiliza, mais desconto se obtem de forma automatica e pode ser visto atraves do painel ou seja voce nao precisa reservar uma Vm por exemplo de 1 a 3 anos e pagar antecipadamente para obter desconto.
 
-![precificacao](https://cloud.githubusercontent.com/assets/24530268/26766723/8913047e-496d-11e7-8c5e-a814ec3c95bb.png)
-
 As configuracoes de VM's sao customizaveis, sabe aqueles casos quandoo precisa criar um servidor porem ao escolher o tipo de configuracao "medium" pode nao suportar e a "large" vai acabar sobrando muito recurso e por consequencia ira pagar mais por isso? entao com esse modelo voce pode personalizar todas as configuracoes de sua VM conforme necessidade.
 
 Com essas inovacoes de precificacao e configuracao de VM, e possivel obter descontos interessantes. A seguir os destaques de recursos e funcionalidades.
