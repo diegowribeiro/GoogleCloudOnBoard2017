@@ -39,18 +39,19 @@ Trata-se de um sistem de conteiners na nuvem em cluster, totalmente gerenciado e
 
 ![container](https://cloud.githubusercontent.com/assets/24530268/26786656/bbc2661a-49dd-11e7-9d4d-7b0331e53e7c.png)
 
-Deixei para o fim os dois itens que mais me chamaram atencao "Big Data" e "Machine Learning", com certeza os pontos mais fortes da Google na nuvem...
+Com certeza o Google esta apostando muito em "Big Data" e "Machine Learning", tem funcionalidades bacana para estes fins.
 
 Google Cloud Big Data Platform
-Foi criado uma plataforma focada em Big Data com diversas funcionalidades para este fim, vou destacar algumas delas:
+Foi criado uma plataforma focada em Big Data com diversas funcionalidades, algumas delas:
 - Big Query: Trata-se de um Data warehouse para analise interativa de grandes quantidades de dados em uma velocidade INCRIVEL! sem precisar provisionar e administrar ambientes uma ferramenta poderosa.
-- Cloud Dataproc: Um jeito muito simples de genrenciar e executar Hadoop, Spark/Hive/Pig. Integracao com diversas nuvens e permite a criacao de clusters 90 segundos ou menos
+- Cloud Dataproc: Um jeito muito simples de genrenciar e executar Hadoop, Spark/Hive/Pig. Integracao com diversas nuvens e permite a criacao de clusters 90 segundos ou menos.
+O grande destaque esta no processamento, sendo possivel realizar uma requery em mais de 4TB e obter os resultados em segundos.
 
 Google Cloud Machine Learning Platform
-Assim como Big data, existe uma plataforma para machine learning com funcionalidades incriveis:
+Assim como Big data, existe uma plataforma para machine learning com funcionalidades incriveis para criar e executar modelos de redes neurais:
 - Cloud Vision API: E possivel analisar imagens, deteccao de rostos, logotipos, textos e muito mais. 
 - Processamento de Linguagem Natural: Usa modelos de Machine Learning para revelar a estrutura e o significado do texto extrai informações sobre pessoas, lugares, eventos mencionados em documentos, notícias e posts em blogs Analisa textos carregados sob demanda ou se integra ao Cloud Storage
-- Cloud Translation API: Traduz strings arbitrárias entre diversos idiomas e detecta o idioma de um documento.
+- Cloud Translation API: Traduz strings arbitrárias entre diversos idiomas e detecta o idioma de documentos.
 
 ![machine](https://cloud.githubusercontent.com/assets/24530268/26789414/9d5d3afc-49e6-11e7-804b-a34a7a338685.png)
 
