@@ -1,4 +1,4 @@
-# Google CloudOn Board 2017 - ***Construcao...
+# Google CloudOn Board 2017
 
 Participei do evento #CloudOnboard do Google que aconteceu no dia 02/06/2017 no estádio Allianz Parque e o objetivo deste evento foi trazer as novidades, apresentar os recursos e os ponto fortes da Nuvem do Google.
 O evento foi incrível, teve algumas falhas no credenciamento e organização para as refeições, porém nada disso ofuscou o quão grandioso foi o evento e principalmente a forma que se deu. Os palestrante conduziram o evento de forma incrível, souberam manter a dinâmica, a didática funcionou e apesar de estar ali um dia todo sentado, não foi nem um pouco cansativo ou chato.
